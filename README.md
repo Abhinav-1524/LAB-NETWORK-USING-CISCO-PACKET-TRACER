@@ -112,7 +112,7 @@ A four-story college building network:
 ![Screenshot 2025-06-07 235910](https://github.com/user-attachments/assets/bd6708ec-31e7-4d84-8191-481e2dd611f9)
 
 **FLOOR 1**
-![Uploading Screenshot 2025-06-08 000501.png…]()
+![Screenshot 2025-06-08 000501](https://github.com/user-attachments/assets/6d157205-c74d-4628-8962-78b8eeb0d4e4)
 
 **FLOOR 2 and 3**
 ![Screenshot 2025-06-08 000512](https://github.com/user-attachments/assets/a2bdb96c-7458-4079-b2df-209cdcfdb883)
